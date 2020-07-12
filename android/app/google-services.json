@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123880035993",
+    "firebase_url": "https://social-app-1b178.firebaseio.com",
+    "project_id": "social-app-1b178",
+    "storage_bucket": "social-app-1b178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123880035993:android:6e791d11683a9d68e74a08",
+        "android_client_info": {
+          "package_name": "com.example.fluttershare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123880035993-ce4m66lj7jme8on5unr0cciapa5kfrhr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD__9nocsu1wTrN42qF9xRN04epnyGtPuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123880035993-ce4m66lj7jme8on5unr0cciapa5kfrhr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
